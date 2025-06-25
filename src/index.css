@@ -1,0 +1,10 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+/* index.css */
+html {
+  /* Increase the root font size for better readability */
+  font-size: 18px;
+  line-height: 2.5;
+}
